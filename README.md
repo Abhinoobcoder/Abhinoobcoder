@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on make REST API using django
+- 🌱 I’m currently learning Python Language
+- 💬 Ask me about any python releted query
+- 📫 How to reach me: Contact me in Telegram via @abhinoobcoder
+- 😄 Pronouns: ... Abhi, chasmis, 
+- ⚡ Fun fact: ... i'm Noob 
+-->
 <!--
 **Abhinoobcoder/Abhinoobcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
